@@ -21,7 +21,7 @@
         android:textSize="36sp" />
 
     <Button
-        android:text="And me"
+        android:text="@string/buttonText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button1"

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinAnkoTemplate</string>
+    <string name="buttonText">Press me</string>
+    <string name="warningText">Uoops</string>
 </resources>
